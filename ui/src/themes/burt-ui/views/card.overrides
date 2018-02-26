@@ -1,0 +1,4 @@
+/*******************************
+         Theme Overrides
+*******************************/
+img.right.floated.mini.ui.image{border-radius:50%;}
